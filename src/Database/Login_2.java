@@ -1,7 +1,7 @@
 /**
  * Student Database Management System Login page(2.0)
  * Date : 09.09.19
- * Last Modified : 17.09.19 testing
+ * Last Modified : 17.09.19
  */
 package Database;
 
